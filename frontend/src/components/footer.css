@@ -1,0 +1,18 @@
+.app-footer {
+  width: 100%;
+  padding: 12px 20px;
+  background-color: #161b22;
+  color: #9ebdfc;
+  text-align: center;
+  font-size: 0.85rem;
+  border-top: 1px solid #21262d;
+  margin-top: auto; /* important for pushing to the bottom */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  align-items: center;
+}

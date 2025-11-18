@@ -1,0 +1,15 @@
+# Node modules
+**/node_modules/
+
+# Env files
+**/*.env
+
+# SQLite databases
+**/*.db
+
+# Build folders
+frontend/dist/
+backend/dist/
+
+# Logs
+*.log
